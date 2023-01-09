@@ -3,7 +3,8 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-            this is home
+            {/* Add your Component Here */}
+            
         </div>
     );
 };
