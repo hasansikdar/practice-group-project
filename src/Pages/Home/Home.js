@@ -1,12 +1,14 @@
-import React from 'react';
-import Survive_Prayer from '../Survive_Prayer/Survive_Prayer';
+import React from "react";
+import DonationVideo from "../DonationVideo/DonationVideo";
+import Survive_Prayer from "../Survive_Prayer/Survive_Prayer";
 
 const Home = () => {
-    return (
-        <div>
-            <Survive_Prayer></Survive_Prayer>
-        </div>
-    );
+  return (
+    <div>
+      <DonationVideo></DonationVideo>
+      <Survive_Prayer></Survive_Prayer>
+    </div>
+  );
 };
 
 export default Home;
