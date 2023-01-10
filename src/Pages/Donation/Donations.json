@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "63bc3b7a95454cae9bf4d1a7",
+      "icon": "",
+      "typeDonation": "Zakat al-Mal ",
+      "DonationInfo": "Zakat al-Mal is one of the five pillars of Islam and is a compulsory charitable contribution. It is money given by Muslims to help those in need and to provide for the welfare of the poor and needy. This money is usually given in the form of 2.5% of one's total wealth each year. This money is to be distributed among the eight categories of people specified in the Qur'an. These categories include the poor, the needy, the wayfarer, those in debt, those in the way of Allah, those whose hearts are to be reconciled, those in bondage, and those in the cause of Allah. Zakat al-Mal is an important part of a Muslim's faith and is a way for Muslims to show their love and commitment to Allah and to the community."
+    },
+    {
+      "_id": "63bc3b7a830ec01f4e5934e7",
+      "icon": "",
+      "typeDonation": "Zakat al-Kaffarah",
+      "DonationInfo": "Zakat al-Kaffarah is an optional form of giving that is paid in lieu of fasting during the month of Ramadan. It is paid by those who are physically or financially unable to fast for a set number of days during Ramadan. It is an obligatory form of charity in Islam, and the amount to be paid is set by the Quran. This form of charity is seen as a way to make up for the missed fasts and to help those in need."
+    },
+    {
+      "_id": "63bc3b7a849bc8904708b294",
+      "icon": "",
+      "typeDonation": "Zakat al-Nisab ",
+      "DonationInfo": "Zakat al-Nisab is an Islamic religious tax that is intended to be paid by Muslims who possess a certain level of wealth. It is a form of charity and a way to help the poor and needy in society. Zakat al-Nisab is based on the Quran and the teachings of the Prophet Muhammad (peace be upon him). The amount of Zakat al-Nisab is based on a person's net worth and is usually 2.5% of the total. It is generally collected by the local religious authority and distributed among the poor and needy."
+    },
+    {
+      "_id": "63bc3b7af409ba294756999f",
+      "icon": "",
+      "typeDonation": "Zakat al-Khumus ",
+      "DonationInfo": "Zakat al-Khumus is a type of mandatory Islamic charity that is paid on the fifth part (khumus) of certain types of income. It is the third of five pillars of Islam and is typically paid in the form of money or other forms of wealth. It is used to provide assistance to the poor and to support Islamic causes and activities. It is also intended to promote economic justice and reduce economic inequality in society."
+    }
+  ]
