@@ -3,7 +3,7 @@ import donations from './Donations.json';
 import frame from '../../Frame.svg';
 const Donations = () => {
     return (
-        <div className='my-20 container mx-auto'>
+        <div id="donationcart" className='my-20 container mx-auto'>
             <div className="text-center">
             <h1 className='text-4xl font-bold'>Their lives depend on <br /> your donation</h1>
             <p className='my-4 font-light mb-16'>The payment of Zakat is a reminder that all that we have is from allah, and <br /> we must use it in the service of others.</p>

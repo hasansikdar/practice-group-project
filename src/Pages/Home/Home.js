@@ -7,10 +7,10 @@ import Survive_Prayer from '../Survive_Prayer/Survive_Prayer';
 const Home = () => {
     return (
         <div className='bg-white'>
-            <Donations></Donations>
-            <Survive_Prayer></Survive_Prayer>
-            <DonationGallery></DonationGallery>
             <DonationVideo></DonationVideo>
+            <Survive_Prayer></Survive_Prayer>
+            <Donations></Donations>
+            <DonationGallery></DonationGallery>
         </div>
     );
 };

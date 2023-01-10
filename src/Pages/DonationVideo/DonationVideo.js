@@ -2,8 +2,8 @@ import React from "react";
 
 const DonationVideo = () => {
   return (
-    <section className="flex flex-wrap lg:justify-between px-52 items-center gap-5 py-10">
-      <div className="w-[495px]">
+    <section id="donationvideo" className="md:flex justify-center md:justify-between px-10 items-center gap-5 py-10">
+      <div className="md:w-[495px]">
         <div className="mb-10">
           <h2 className="text-[45px] font-bold leading-[45px]">
             Their lives depend on your donation
@@ -18,11 +18,11 @@ const DonationVideo = () => {
         </div>
         <p className="btn bg-[#EF233C] border-0">Explore More</p>
       </div>
-      <div className="rounded">
+      <div className="rounded w-full md:w-1/2 my-4">
         <iframe
           className="rounded"
-          width="495"
-          height="550"
+          width="100%"
+          height="450"
           src="https://www.youtube.com/embed/GK2ippphNnM"
           title="YouTube video player"
           frameborder="0"
